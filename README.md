@@ -5,4 +5,4 @@ Here's a fully commented version of the famous game - Simon - in javascript, bui
 
 LICENSE
 ================================
-Provided under the MIT license.
+Provided under the [MIT](http://opensource.org/licenses/MIT) license.
